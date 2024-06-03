@@ -1,0 +1,4 @@
+haystack-ai==2.2.0
+bentoml==1.2.17
+huggingface==0.0.1
+transformers[torch]==4.41.2
