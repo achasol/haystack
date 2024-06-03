@@ -8,10 +8,22 @@ Playing around with Haystack.
 2. install deps
 3. run the bento docker container
 
+Setup a virtual environment
+
+```
+venv ./rag-pipeline/env
+```
+
 Start the virtual environment (windws specific).
 
 ```
-./env/Scripts/activate
+./rag-pipeline/env/Scripts/activate
+```
+
+Nagivate into the rag-pipeline folder
+
+```
+cd rag-pipeline
 ```
 
 Then install the required dependencies:
